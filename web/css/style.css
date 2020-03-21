@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat|Roboto&display=swap');
+
+/*
+font-family: 'Montserrat', sans-serif;
+font-family: 'Roboto', sans-serif;
+*/
+
+body {
+    font-size:12px;
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+
+h1 {
+    padding:20px;
+    font-family: 'Roboto', sans-serif;
+    text-transform: uppercase;
+}
+
+
+.homepage-title {
+    background:#E1E1E1;
+}
+.title {
+    text-align: center;
+}
+p.title {
+    padding-bottom:20px;
+}
