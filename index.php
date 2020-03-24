@@ -19,8 +19,8 @@
         <section>
             <h2>Sub Sections</h2>
             <ul>
-                <li><a class="hyperlink" href="PHPFundamentals">PHP Fundamentals</a></li>
-                <li><a class="hyperlink" href="PHPWorkshop/Workshop001/workshop-index.php">PHPWorkshop</a></li>
+                <li><a class="hyperlink" href="PHPFundamentals/02/demos/Demos/Demo.GeneralElements.php">PHP Fundamentals</a></li>
+                <li><a class="hyperlink" href="PHPWorkshop/Workshop001/workshop-index.php">PHP Workshop</a></li>
             </ul>
         </section>
     </body>
