@@ -12,20 +12,16 @@
 <head>
     <link rel="stylesheet" type="text/css" href="web/css/style.css">
 </head>
-    <body>
-    <header>
-        <nav>
-
-        </nav>
-    </header>
-        <section class="homepage-title">
+        <header class="homepage-title">
             <h1 class="title">Pluralsight PHP Coursework</h1>
-            <p class="title"> 4 week Block </p>
+            <p class="title"> March/April 2020 </p>
+        </header>
+        <section>
+            <h2>Sub Sections</h2>
+            <ul>
+                <li><a class="hyperlink" href="PHPFundamentals">PHP Fundamentals</a></li>
+                <li><a class="hyperlink" href="PHPWorkshop/Workshop001/workshop-index.php">PHPWorkshop</a></li>
+            </ul>
         </section>
-
-
-
-
-
     </body>
 </html>

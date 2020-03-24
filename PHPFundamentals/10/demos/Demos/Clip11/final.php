@@ -9,7 +9,7 @@ if(isset($_SESSION['formPostData']))
 }
 else
 {
-    header('Location: index.php');   
+    header('Location: workshop-index.php');
 }
 
 ?>
