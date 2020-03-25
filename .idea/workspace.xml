@@ -2,16 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ba5caa2-390a-4b33-aba5-ae6f250b0ec5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/PHPWorkshop/Workshop001/fundamentals/strings.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PHPWorkshop/Workshop001/include/fundamentals-header.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PHPWorkshop/Workshop001/Documentation/OOP_PHP.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/PHPDocumentation/OOP_PHP.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PHPWorkshop/Workshop001/Documentation/PHP-Object-Oriented-Solutions.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/PHPDocumentation/PHP-Object-Oriented-Solutions.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PHPWorkshop/Workshop001/classes.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHPWorkshop/Workshop001/fundamentals/classes.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PHPWorkshop/Workshop001/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHPWorkshop/Workshop001/fundamentals/functions.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PHPWorkshop/Workshop001/include/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHPWorkshop/Workshop001/footer.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PHPWorkshop/Workshop001/strings.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHPWorkshop/Workshop001/fundamentals/arrays.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PHPWorkshop/Workshop001/workshop-index.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHPWorkshop/Workshop001/workshop-index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHPWorkshop/Workshop001/fundamentals/arrays.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHPWorkshop/Workshop001/fundamentals/arrays.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHPWorkshop/Workshop001/fundamentals/classes.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHPWorkshop/Workshop001/fundamentals/classes.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHPWorkshop/Workshop001/fundamentals/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHPWorkshop/Workshop001/fundamentals/functions.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHPWorkshop/Workshop001/fundamentals/strings.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHPWorkshop/Workshop001/fundamentals/strings.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHPWorkshop/Workshop001/include/fundamentals-header.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHPWorkshop/Workshop001/include/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHPWorkshop/Workshop001/include/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PHPWorkshop/Workshop001/web/css/workshop001.css" beforeDir="false" afterPath="$PROJECT_DIR$/web/css/workshop001.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -46,17 +45,17 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="css" value="11" />
+          <entry key="css" value="13" />
           <entry key="md" value="2" />
-          <entry key="php" value="54" />
+          <entry key="php" value="62" />
           <entry key="txt" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="11" />
+          <entry key="CSS" value="13" />
           <entry key="Markdown" value="2" />
-          <entry key="PHP" value="54" />
+          <entry key="PHP" value="62" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
@@ -64,7 +63,7 @@
         <counts>
           <entry key="css" value="449" />
           <entry key="md" value="108" />
-          <entry key="php" value="3747" />
+          <entry key="php" value="3807" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
@@ -72,40 +71,13 @@
           <entry key="CSS" value="449" />
           <entry key="HTML" value="10" />
           <entry key="Markdown" value="108" />
-          <entry key="PHP" value="3737" />
+          <entry key="PHP" value="3797" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PHPWorkshop/Workshop001/workshop-index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PHPWorkshop/Workshop001/fundamentals/strings.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="33" selection-start-line="2" selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PHPWorkshop/Workshop001/fundamentals/arrays.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/PHPWorkshop/Workshop001/include/header.php">
           <provider selected="true" editor-type-id="text-editor">
@@ -116,10 +88,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PHPWorkshop/Workshop001/include/fundamentals-header.php">
+        <entry file="file://$PROJECT_DIR$/PHPWorkshop/Workshop001/fundamentals/functions.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+            <state relative-caret-position="30">
+              <caret line="2" column="27" selection-start-line="2" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PHPWorkshop/Workshop001/fundamentals/strings.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -128,28 +109,16 @@
         <entry file="file://$PROJECT_DIR$/PHPWorkshop/Workshop001/fundamentals/classes.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="95" selection-start-line="22" selection-start-column="95" selection-end-line="22" selection-end-column="95" />
-              <folding>
-                <element signature="e#6#93#0#PHP" expanded="true" />
-              </folding>
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/PHPWorkshop/Workshop001/fundamentals/functions.php">
+        <entry file="file://$PROJECT_DIR$/PHPWorkshop/Workshop001/fundamentals/arrays.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="75">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
@@ -174,18 +143,18 @@
         <option value="$PROJECT_DIR$/PHPWorkshop/Workshop001/footer.php" />
         <option value="$PROJECT_DIR$/PHPWorkshop/readme.md" />
         <option value="$PROJECT_DIR$/web/css/style.css" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/PHPWorkshop/Workshop001/functions.php" />
         <option value="$PROJECT_DIR$/PHPWorkshop/Workshop001/classes.php" />
         <option value="$PROJECT_DIR$/PHPWorkshop/Workshop001/strings.php" />
         <option value="$PROJECT_DIR$/PHPWorkshop/Workshop001/arrays.php" />
-        <option value="$PROJECT_DIR$/PHPWorkshop/Workshop001/workshop-index.php" />
         <option value="$PROJECT_DIR$/PHPWorkshop/Workshop001/include/fundamentals-header.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/PHPWorkshop/Workshop001/workshop-index.php" />
         <option value="$PROJECT_DIR$/PHPWorkshop/Workshop001/include/header.php" />
-        <option value="$PROJECT_DIR$/PHPWorkshop/Workshop001/fundamentals/strings.php" />
-        <option value="$PROJECT_DIR$/PHPWorkshop/Workshop001/fundamentals/arrays.php" />
-        <option value="$PROJECT_DIR$/PHPWorkshop/Workshop001/fundamentals/classes.php" />
         <option value="$PROJECT_DIR$/PHPWorkshop/Workshop001/fundamentals/functions.php" />
+        <option value="$PROJECT_DIR$/PHPWorkshop/Workshop001/fundamentals/strings.php" />
+        <option value="$PROJECT_DIR$/PHPWorkshop/Workshop001/fundamentals/classes.php" />
+        <option value="$PROJECT_DIR$/PHPWorkshop/Workshop001/fundamentals/arrays.php" />
       </list>
     </option>
   </component>
@@ -232,6 +201,13 @@
               <item name="Pluralsight" type="462c0819:PsiDirectoryNode" />
               <item name="PHPWorkshop" type="462c0819:PsiDirectoryNode" />
               <item name="Workshop001" type="462c0819:PsiDirectoryNode" />
+              <item name="fundamentals" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Pluralsight" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Pluralsight" type="462c0819:PsiDirectoryNode" />
+              <item name="PHPWorkshop" type="462c0819:PsiDirectoryNode" />
+              <item name="Workshop001" type="462c0819:PsiDirectoryNode" />
               <item name="include" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -260,6 +236,9 @@
     <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/web/css" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/PHPWorkshop/Workshop001/include" />
       <recent name="$PROJECT_DIR$/PHPWorkshop/Workshop001" />
@@ -294,12 +273,12 @@
       <workItem from="1584526685242" duration="414000" />
       <workItem from="1584630432707" duration="11031000" />
       <workItem from="1584906833042" duration="4639000" />
-      <workItem from="1585003331764" duration="17833000" />
+      <workItem from="1585003331764" duration="18987000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34848000" />
+    <option name="totallyTimeSpent" value="36002000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="835" extended-state="0" />
@@ -426,13 +405,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PHPWorkshop/Workshop001/web/css/workshop001.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="22" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="251">
@@ -442,25 +414,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="95" selection-start-line="22" selection-start-column="95" selection-end-line="22" selection-end-column="95" />
+        <state relative-caret-position="180">
+          <caret line="12" column="49" selection-start-line="12" selection-start-column="49" selection-end-line="12" selection-end-column="49" />
           <folding>
             <element signature="e#6#93#0#PHP" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PHPWorkshop/Workshop001/workshop-index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/PHPWorkshop/Workshop001/include/fundamentals-header.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
-          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+          <caret line="4" column="6" lean-forward="true" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHPWorkshop/Workshop001/web/css/workshop001.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/css/workshop001.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHPWorkshop/Workshop001/workshop-index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="34" lean-forward="true" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
         </state>
       </provider>
     </entry>
@@ -471,31 +453,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PHPWorkshop/Workshop001/fundamentals/strings.php">
+    <entry file="file://$PROJECT_DIR$/PHPWorkshop/Workshop001/fundamentals/functions.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="2" column="33" selection-start-line="2" selection-end-line="3" />
+          <caret line="2" column="27" selection-start-line="2" selection-end-line="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PHPWorkshop/Workshop001/fundamentals/arrays.php">
+    <entry file="file://$PROJECT_DIR$/PHPWorkshop/Workshop001/fundamentals/strings.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="45">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/PHPWorkshop/Workshop001/fundamentals/classes.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PHPWorkshop/Workshop001/fundamentals/functions.php">
+    <entry file="file://$PROJECT_DIR$/PHPWorkshop/Workshop001/fundamentals/arrays.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="75">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>

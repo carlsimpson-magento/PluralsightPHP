@@ -10,7 +10,7 @@
 
 <html>
 <head>
-    <link rel="stylesheet" type="text/css" href="web/css/style.css">
+    <link rel="stylesheet" type="text/css" href="/web/css/style.css">
 </head>
         <header class="homepage-title">
             <h1 class="title">Pluralsight PHP Coursework</h1>
