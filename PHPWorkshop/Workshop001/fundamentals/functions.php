@@ -1,8 +1,8 @@
 <?php
 
-include 'include/header.php';
+include '../include/fundamentals-header.php';
 
-// Set Page Properties
+// Functions
 // -------------------
 //
 

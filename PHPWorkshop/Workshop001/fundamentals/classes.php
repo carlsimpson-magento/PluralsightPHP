@@ -1,6 +1,10 @@
 <?php
 
-include 'include/header.php';
+include '../include/fundamentals-header.php';
+
+// Classes
+// -------------------
+//
 
 class Spaceship {
     // Properties

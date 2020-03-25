@@ -1,4 +1,5 @@
     <?php include 'include/header.php'; ?>
+
     <section>
         <header>
             <h1 class="page-title">PHP WorkShop001</h1>
@@ -7,8 +8,10 @@
     </section>
 
     <p>PHP Fundamentals sandbox:</p>
-    <p>* <a href="classes.php" class="hyperlink">Classes</a></p>
-    <p>* <a href="functions.php" class="hyperlink">Functions</a></p>
-    <p>* <a href="strings.php" class="hyperlink">Strings</a></p>
+    <p>* <a href="fundamentals/functions.php" class="hyperlink">Functions</a></p>
+    <p>* <a href="fundamentals/strings.php" class="hyperlink">Strings</a></p>
+    <p>* <a href="fundamentals/arrays.php" class="hyperlink">Arrays</a></p>
+    <p>* <a href="fundamentals/classes.php" class="hyperlink">Classes</a></p>
 
-    <?php include 'include/footer.php'; ?>
+
+    <?php include 'footer.php'; ?>
