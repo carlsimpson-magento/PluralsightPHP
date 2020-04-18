@@ -5,6 +5,8 @@
  * Date: 02/04/2020
  * Time: 13:48
  */
+
+
 include_once 'includes/environment_variables.php';
 
 ?>
@@ -41,3 +43,4 @@ include_once 'includes/environment_variables.php';
         </div>
     </div>
 </header>
+

@@ -6,14 +6,15 @@
  * Time: 13:50
  */
 
-?>
-
-<!-- bootstrap container -->
-<div class="container">
-
-<?php
+    echo "<div class='container'>";
     // show page header
-    echo "<div class='page-header'>
-            <h1>{$page_title}</h1>
-          </div>";
+//    echo "<div class='page-header'>";
+//    echo "<h1>{$page_title}</h1>";
+//    echo "</div>";
+    // show page header
+//    echo "<div class='right-button-margin'>";
+//    echo "<a href='index.php' class='btn btn-primary pull-right'>Read Products</a>";
+//    echo "</div>";
+
 ?>
+
